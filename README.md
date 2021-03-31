@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Piotr-Zacharski
-- 👀 I’m interested in JavaScript, React, HTML, CSS and Vue.
-- 🌱 I’m currently learning a bit of everything.
+- 👀 I’m interested in JavaScript and React.
+- 🌱 I’m currently learning a bit of everything (but mainly React).
 - 💞️ I’m looking to collaborate on some simple internshipish stuff.
 - 📫 How to reach me via email: zacharski.p.h@gmail.com
 
