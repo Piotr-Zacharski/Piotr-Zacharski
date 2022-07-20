@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Piotr-Zacharski
 - 👀 I’m interested in JavaScript, React and recently in Python.
-- 🌱 I’m currently learning a bit of everything (but mainly React and Python).
+- 🌱 I’m currently learning mainly React and TypeScript.
 - 💞️ I’m looking to collaborate on some simple internshipish stuff.
 - 📫 How to reach me via email: zacharski.p.h@gmail.com
 
