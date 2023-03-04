@@ -35,7 +35,7 @@ Junior FrontEnd Developer
 </p>
 
 
-### <p>Socials</p>
+### <p align="center>Socials</p>
 
 <p align="center"> <a href="https://www.github.com/Piotr-Zacharski" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/piotr-h-zacharski/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
