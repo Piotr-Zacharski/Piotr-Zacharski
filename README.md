@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Piotr Zacharski
 =======================================================================================================================================
 
-Junior FrontEnd Developer
--------------------------
+Junior Front-End Developer
+--------------------------
 
 * 🌍  I'm based in Włodawa / Lublin + remote 😉
 * 📧   You can contact me at [zacharski.p.h@gmail.com](mailto:zacharski.p.h@gmail.com)
