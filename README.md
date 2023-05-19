@@ -5,9 +5,9 @@ Junior FrontEnd Developer
 -------------------------
 
 * 🌍  I'm based in Włodawa / Lublin + remote 😉
-* ✉️   You can contact me at [zacharski.p.h@gmail.com](mailto:zacharski.p.h@gmail.com)
-* 🧠  I'm learning frontend with Typescript, React and NextJS + backend with Django Rest Framework
-* 💞️  I’m taking part in an internship at TH-EY S&D LTD.
+* 📧   You can contact me at [zacharski.p.h@gmail.com](mailto:zacharski.p.h@gmail.com)
+* 🧠  I work mainly with JavaScript/Typescript, React and NextJS + backend with Django Rest Framework
+* 💻  I help building web apps for TH-EY S&D LTD.
 * 🤝  I'm open to collaborating on JavaScript / React / NextJs projects
 
 
